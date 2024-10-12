@@ -1,0 +1,2 @@
+TEMPLEDUSTSPINNERSMOD_SETTING_NAME= Replace Spinners in Mirror Temple
+TEMPLEDUSTSPINNERSMOD_SETTING_DESC= Will take effect on reloading the room or transitioning to another room.
